@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://img.freepik.com/darmowe-wektory/wiruja-nuty-fala-z-nutami-muzyczna-pieciolinia-klucz-harmonii-melodia-symfonii-plynaca-muzyka-klucz-wiolinowy-personel-wektor-tlo_176411-600.jpg?w=740");
+  background-size: cover;
+  background-color: #66BFBF;
+  text-align: center;
+  font-family: 'Caveat', cursive;
+}
+
+hr {
+  border: none;
+  border-top: 5px dotted black;
+}
+.starter {
+  background-color: #B1E693;
+}
+.lists {
+  background-color: #6ECB63;
+}
+.ending {
+  background-color: #B1E693;
+}
+.chordsimg {
+  height: 50%;
+  width: auto;
+}
